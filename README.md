@@ -1,2 +1,2 @@
 # bohr
-Distributed programming and cryptography with Rust
+Distributed programming and security with Rust
