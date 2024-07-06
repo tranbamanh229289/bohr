@@ -1,2 +1,2 @@
 # bohr
-distributed programming
+Distributed programming with Rust
